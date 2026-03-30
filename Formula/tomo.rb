@@ -1,13 +1,13 @@
 class Tomo < Formula
   desc "Terminal-native AI chat client — local-first, OpenAI-compatible"
   homepage "https://github.com/LeeCheneler/tomo"
-  version "0.12.0"
+  version "0.13.0"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/LeeCheneler/tomo/releases/download/v0.12.0/tomo-darwin-arm64.zip"
-      sha256 "1d49126bbb6e00fe54812f41f9251bd6b6bcfc9ceeec57e1c9d05d4dd8265ed5"
+      url "https://github.com/LeeCheneler/tomo/releases/download/v0.13.0/tomo-darwin-arm64.zip"
+      sha256 "4042138fa494994310e0c726270d3d0a8f1d7339de7affb3ef0896ef8f24f56f"
     end
   end
 
